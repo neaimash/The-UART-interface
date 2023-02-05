@@ -1,4 +1,4 @@
-# The-UART-and-SPI-interface
+# The-UART-and-SPI-interfaces
 Two programs, which are designed to run a step in which two development circuits are connected to each other.
 One development circuit (the master) communicates with the computer via the UART interface, and the other (the slave) communicates with the master
 Also, the slave is connected to a motion sensor via the SPI interface.
